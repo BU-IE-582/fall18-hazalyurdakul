@@ -7,3 +7,7 @@
 ## Week 3 (October 18)
 
 [Here](files/Homework1-IE582.html) is my first assignment
+
+## Week 4 (October 25)
+
+[Here](files/IE582_Homework2.html) is my second assignment

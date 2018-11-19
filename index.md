@@ -11,3 +11,7 @@
 ## Week 4 (October 25)
 
 [Here](files/IE582_Homework2.html) is my second assignment
+
+## Week 8 (November 19)
+
+[Here](files/IE582_Fall2018_Homework3) is my third assignment

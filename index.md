@@ -15,3 +15,11 @@
 ## Week 8 (November 19)
 
 [Here](files/IE582_Fall2018_Homework3.html) is my third assignment
+
+## Week 12 (December 19)
+Assignment4
+[Here](files/Classification-Data1.html) is the first data
+[Here](files/Classification-Data2.html) is the second data
+[Here](files/Classification-Data3.html) is the third data
+[Here](files/Data3 - Description.txt) is attribute description of data3
+[Here](files/Data4 - Description.txt) is attribute description of data4

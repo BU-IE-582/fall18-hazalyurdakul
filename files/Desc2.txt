@@ -1,0 +1,29 @@
+"Age" : Employee age                 
+"Attrition"  :having attrition 1 else 0             
+"DailyRate"  : the average rental income daily              
+"DistanceFromHome" : distance from home      
+"Education": 1:lowest education level 4:highest education level                
+"EmployeeCount": number of employees          
+"EmployeeNumber": total number of employees          
+"EnvironmentSatisfaction" : satisfaction level of work environment
+"Gender" : male 1, female 0                  
+"HourlyRate" :the average rental income hourly
+"JobInvolvement" : level of job involvement         
+"JobLevel" : hardness of job               
+"JobSatisfaction":satisfaction level of job        
+"MaritalStatus" : being married 1, else 0          
+"MonthlyIncome" : average monthly income           
+"MonthlyRate" : average rental income monthly            
+"NumCompaniesWorked" : number of companies worked before      
+"OverTime"  : working in overtime 1, else 0              
+"PercentSalaryHike"  : percentage of salary increase      
+"PerformanceRating"  : performance level     
+"RelationshipSatisfaction" : satisfaction level of work relationship
+"StockOptionLevel" :stock option level       
+"TotalWorkingYears"  : total working years    
+"TrainingTimesLastYear" : number of training times in last year
+"WorkLifeBalance" : work and life balance level          
+"YearsAtCompany" : number of years passed in company         
+"YearsInCurrentRole" : number of years in current role      
+"YearsSinceLastPromotion" : number of years passed since last promotion
+"YearsWithCurrManager" : number of years passed with current manager

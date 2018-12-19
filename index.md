@@ -24,6 +24,6 @@ Assignment4
 
 [Here](files/Classification-Data3.html) is the third data
 
-[Here](files/Data3 - Description.txt) is attribute description of data3
+[Here](files/Description3.txt) is attribute description of data3
 
-[Here](files/Data4 - Description.txt) is attribute description of data4
+[Here](files/Description4.txt) is attribute description of data4

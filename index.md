@@ -34,3 +34,12 @@ Assignment4
 [Here](files/Description3.txt) is attribute description of data3
 
 [Here](files/Description4.txt) is attribute description of data4
+
+## Week 16 (January 07)
+
+[Here](files/IE582_Fall2018_HW5.html) is my fifth homework assignment
+
+## Week 16 (January 07)
+
+[Here](files/IE582Project.html) is our project assignment and you can find project codes [Here](582ProjectCode.R)
+

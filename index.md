@@ -41,5 +41,5 @@ Assignment4
 
 ## Week 16 (January 07)
 
-[Here](files/IE582Project.html) is project assignment and you can find project codes [Here](582ProjectCode.R)
+[Here](files/IE582project1.html) is project assignment and you can find project codes [Here](582project.zip)
 
